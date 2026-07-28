@@ -8,7 +8,7 @@ import rasm6 from "./rasm/rasm6.jpg"
 import rasm7 from "./rasm/rasm7.jpg"
 import rasm8 from "./rasm/rasm8.jpg"
 import rasm9 from "./rasm/rasm9.jpg"
-import rasm10 from "./rasm/rasm10.jpg"
+
 import rasm11 from "./rasm/rasm11.jpg"
 function App() {
   return (
